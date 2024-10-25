@@ -1,5 +1,4 @@
 #!/bin/bash
-
 # restart_system.sh
 # Display a message indicating that the system will be restarted
 echo "Warning: The system is about to be restarted."
